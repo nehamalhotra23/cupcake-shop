@@ -1,20 +1,28 @@
 h1 {
   color: #e75480;
+  text-align: center;
 }
 
 p.flashy {
   font-style: italic;
-  color: pink;
+  color: blue;
 }
 
 p.best {
-  color: pink;
+  color: blue;
   font-weight: bold;
   font-style: italic;
-
 }
+
 img {
   border-style: solid;
-  border-color: pink;
+  border-color: blue;
   border-radius: 15px;
+  margin-left: 435px;
+}
+body {
+  margin: 14px;
+  border: 4px pink;
+  background-color: pink;
+  /*border-color: pink;
 }
