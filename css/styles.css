@@ -1,0 +1,20 @@
+h1 {
+  color: #e75480;
+}
+
+p.flashy {
+  font-style: italic;
+  color: pink;
+}
+
+p.best {
+  color: pink;
+  font-weight: bold;
+  font-style: italic;
+
+}
+img {
+  border-style: solid;
+  border-color: pink;
+  border-radius: 15px;
+}
