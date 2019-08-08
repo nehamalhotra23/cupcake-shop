@@ -43,3 +43,15 @@ body {
   float: left;
   padding: 20px;
 }
+@media screen and (max-width: 400px) and (min-width: 300px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
